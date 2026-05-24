@@ -1,7 +1,3 @@
-Here is a complete, well-structured, and scannable `README.md` file designed for your GitHub repository based on the provided technology stack, project code, and dataset details.
-
----
-
 # # Adidas US Sales Data Analytics & Machine Learning Application
 
 An interactive web-based dashboard and API powered by **Flask** and **Scikit-Learn** that performs descriptive analytics and predictive machine learning tasks using the **Adidas US Sales Datasets.xlsx**.
